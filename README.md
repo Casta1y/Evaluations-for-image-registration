@@ -6,3 +6,11 @@ Quantitative evaluation for image registration.
 - SSIM(2D/3D)
 - Mutual Information / local mutual information
 - NCC
+
+# Visualization
+To visualize the DVF like this 
+
+![visualization](visualization/output.png)
+
+- unzip visualization/neurite.zip
+- then "cd neurite && python setup.py install"
